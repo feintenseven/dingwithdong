@@ -1,0 +1,3 @@
+# 固定路径规则，适配单页应用
+permalink: /:path/:basename:output_ext
+relative_permalinks: false
